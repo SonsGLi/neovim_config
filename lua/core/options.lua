@@ -5,8 +5,8 @@ opt.relativenumber = true
 opt.number = true
 
 --缩进
-opt.tabstop = 2
-opt.shiftwidth = 2
+opt.tabstop = 1
+opt.shiftwidth = 1
 opt.expandtab = true
 opt.autoindent = true
 
@@ -30,9 +30,22 @@ opt.splitbelow = true
 opt.ignorecase = true
 opt.smartcase = true
 
---终端真颜色
+--终端颜色
 opt.termguicolors = true
 opt.signcolumn = "yes"
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
